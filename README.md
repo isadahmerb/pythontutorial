@@ -1,3 +1,3 @@
-# Exercícios em Python
-> icons/Python-Dark.svg
+# Exercícios em Python 
+>
 Exercícios feitos no processo de apredizagem de python
